@@ -62,4 +62,7 @@ DROP FOREIGN KEY detalle_orden_ibfk_1;
 DESCRIBE ordenes_compra;
 DESCRIBE detalle_orden;
 
+ALTER TABLE productos ADD COLUMN id_proveedor INT NOT NULL;
+
+
 

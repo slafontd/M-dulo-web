@@ -9,3 +9,4 @@ C:\Users\lafon\ModuloWeb\ModuloWeb.ENTITIES\obj\Debug\net8.0\ModuloWeb.ENTITIES.
 C:\Users\lafon\ModuloWeb\ModuloWeb.ENTITIES\obj\Debug\net8.0\refint\ModuloWeb.ENTITIES.dll
 C:\Users\lafon\ModuloWeb\ModuloWeb.ENTITIES\obj\Debug\net8.0\ModuloWeb.ENTITIES.pdb
 C:\Users\lafon\ModuloWeb\ModuloWeb.ENTITIES\obj\Debug\net8.0\ref\ModuloWeb.ENTITIES.dll
+C:\Users\lafon\ModuloWeb\ModuloWeb.ENTITIES\obj\Debug\net8.0\ModuloWeb.ENTITIES.sourcelink.json

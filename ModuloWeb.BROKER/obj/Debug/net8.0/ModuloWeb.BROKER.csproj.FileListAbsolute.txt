@@ -13,3 +13,4 @@ C:\Users\lafon\ModuloWeb\ModuloWeb.BROKER\obj\Debug\net8.0\ModuloWeb.BROKER.dll
 C:\Users\lafon\ModuloWeb\ModuloWeb.BROKER\obj\Debug\net8.0\refint\ModuloWeb.BROKER.dll
 C:\Users\lafon\ModuloWeb\ModuloWeb.BROKER\obj\Debug\net8.0\ModuloWeb.BROKER.pdb
 C:\Users\lafon\ModuloWeb\ModuloWeb.BROKER\obj\Debug\net8.0\ref\ModuloWeb.BROKER.dll
+C:\Users\lafon\ModuloWeb\ModuloWeb.BROKER\obj\Debug\net8.0\ModuloWeb.BROKER.sourcelink.json

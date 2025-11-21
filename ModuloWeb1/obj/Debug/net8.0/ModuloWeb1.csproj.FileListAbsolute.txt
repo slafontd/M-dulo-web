@@ -65,3 +65,4 @@ C:\Users\lafon\ModuloWeb\ModuloWeb1\obj\Debug\net8.0\refint\ModuloWeb1.dll
 C:\Users\lafon\ModuloWeb\ModuloWeb1\obj\Debug\net8.0\ModuloWeb1.pdb
 C:\Users\lafon\ModuloWeb\ModuloWeb1\obj\Debug\net8.0\ModuloWeb1.genruntimeconfig.cache
 C:\Users\lafon\ModuloWeb\ModuloWeb1\obj\Debug\net8.0\ref\ModuloWeb1.dll
+C:\Users\lafon\ModuloWeb\ModuloWeb1\obj\Debug\net8.0\ModuloWeb1.sourcelink.json

@@ -105,8 +105,8 @@ namespace ModuloWeb.MANAGER
         private void EnviarCorreo(int idOrden, int idProveedor, string rutaPDF)
         {
             string proveedorCorreo = ObtenerCorreoProveedor(idProveedor);
-            string remitente = "correo"; // <-- tu correo Gmail
-            string claveApp = "token"; // <-- contraseña de aplicación de Gmail
+            string remitente = "lafontdiazsantiago@gmail.com"; // <-- tu correo Gmail
+            string claveApp = "jeae szgh fkff fzyz"; // <-- contraseña de aplicación de Gmail
 
             using (MailMessage mail = new MailMessage())
             {

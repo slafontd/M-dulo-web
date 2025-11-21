@@ -15,3 +15,4 @@ C:\Users\lafon\ModuloWeb\ModuloWeb.MANAGER\obj\Debug\net8.0\ModuloWeb.MANAGER.dl
 C:\Users\lafon\ModuloWeb\ModuloWeb.MANAGER\obj\Debug\net8.0\refint\ModuloWeb.MANAGER.dll
 C:\Users\lafon\ModuloWeb\ModuloWeb.MANAGER\obj\Debug\net8.0\ModuloWeb.MANAGER.pdb
 C:\Users\lafon\ModuloWeb\ModuloWeb.MANAGER\obj\Debug\net8.0\ref\ModuloWeb.MANAGER.dll
+C:\Users\lafon\ModuloWeb\ModuloWeb.MANAGER\obj\Debug\net8.0\ModuloWeb.MANAGER.sourcelink.json

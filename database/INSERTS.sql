@@ -23,4 +23,8 @@ INSERT INTO detalle_orden (id_orden, id_producto, cantidad, precio, subtotal) VA
 (3, 3, 2, 85000, 170000),
 (3, 4, 2, 35000, 70000);
 
+INSERT INTO proveedores (nombre, correo, telefono, direccion)
+VALUES ('Proveedor Ejemplo', 'proveedor@correo.com', '123456789', 'Calle 123');
+
+
 
